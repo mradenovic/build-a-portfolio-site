@@ -31,6 +31,11 @@ hr {
   height: 2px;
   background-color: #7d97ad;
 }
+
+img {
+  height: 300px;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 992px) {
   .container {
