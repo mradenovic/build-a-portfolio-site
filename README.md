@@ -2,6 +2,12 @@
 
 Build a Portfolio Site is the second project built during completion of the [Udacity's](https://www.udacity.com/) Nanodegree program [Full Stack Web Developer](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
+## Review Guide
+
+The project was developed with [Yeoman](https://github.com/yeoman) and [generator-webapp](https://github.com/yeoman/generator-webapp). The production version is hosted [here](https://mradenovic.github.io/build-a-portfolio-site/) and code is contained within [app](https://github.com/mradenovic/build-a-portfolio-site/tree/master/app) folder.
+
+
+
 ## Develop
 
 - Clone the repo: `clone https://github.com/mradenovic/build-a-portfolio-site.git`
