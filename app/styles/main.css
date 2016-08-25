@@ -10,8 +10,9 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   font-family: 'Lato', sans-serif;
-  color: #2d3c49;
   font-weight: 300;
+  color: #2d3c49;
+  background-color: inherit;
 }
 
 text-muted {
@@ -20,6 +21,7 @@ text-muted {
 
 text-light {
   color: #7d97ad;
+  background-color: inherit;
 }
 
 h4 {
@@ -33,6 +35,7 @@ p {
 
 hr {
   height: 2px;
+  color: inherit;
   background-color: #7d97ad;
 }
 
