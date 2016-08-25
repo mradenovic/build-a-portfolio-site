@@ -22,9 +22,13 @@ text-light {
   color: #7d97ad;
 }
 
+h4 {
+  font: 600 16px Catamaran, sans-serif;
+}
+
+
 p {
-  font-family: Catamaran, sans-serif;
-  font-weight: 400;
+  font: 400 16px Catamaran, sans-serif;
 }
 
 hr {
