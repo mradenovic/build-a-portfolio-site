@@ -15,6 +15,10 @@ body {
   background-color: inherit;
 }
 
+logo {
+  height: 2em;
+}
+
 text-muted {
   font-weight: 100;
 }
